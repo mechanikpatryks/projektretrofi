@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "tytul": "Pan Tadeusz",
+    "autor": "Adam Mickiewicz",
+    "rok_wydania": 1834
+  },
+  {
+    "id": 2,
+    "tytul": "Lalka",
+    "autor": "Boleslaw Prus",
+    "rok_wydania": 1890
+  },
+  {
+    "id": 3,
+    "tytul": "Wiedzmin: Ostatnie zyczenie",
+    "autor": "Andrzej Sapkowski",
+    "rok_wydania": 1993
+  },
+  {
+    "id": 4,
+    "tytul": "Quo Vadis",
+    "autor": "Henryk Sienkiewicz",
+    "rok_wydania": 1896
+  }
+]
